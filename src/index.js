@@ -1,12 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import { UIRouter, UIView } from '@uirouter/react';
+import Dialog from './global/components/Dialog';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+// polyfill fetch func
+import 'whatwg-fetch';
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+// import styles
+import './styles/index.css';
+
+// import routing
+import {router} from './router.config';
+
+ReactDOM.render(
+  <UIRouter router={router}>
+    <div>
+      <UIView/>
+      <Dialog/>
+    </div>
+  </UIRouter>,
+  document.getElementById('root')
+);
