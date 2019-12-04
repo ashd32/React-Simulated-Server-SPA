@@ -1,0 +1,31 @@
+{
+  "files": {
+    "static/js/0.58d47d92.chunk.js": "ashd32.github.io/react-simulated-server-spa/static/js/0.58d47d92.chunk.js",
+    "static/js/0.58d47d92.chunk.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/0.58d47d92.chunk.js.map",
+    "main.css": "ashd32.github.io/react-simulated-server-spa/static/css/main.6bae9d2a.chunk.css",
+    "main.js": "ashd32.github.io/react-simulated-server-spa/static/js/main.4008c08b.chunk.js",
+    "main.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/main.4008c08b.chunk.js.map",
+    "runtime-main.js": "ashd32.github.io/react-simulated-server-spa/static/js/runtime-main.a7fa48ab.js",
+    "runtime-main.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/runtime-main.a7fa48ab.js.map",
+    "static/js/3.2f045d64.chunk.js": "ashd32.github.io/react-simulated-server-spa/static/js/3.2f045d64.chunk.js",
+    "static/js/3.2f045d64.chunk.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/3.2f045d64.chunk.js.map",
+    "static/js/4.6d3e0039.chunk.js": "ashd32.github.io/react-simulated-server-spa/static/js/4.6d3e0039.chunk.js",
+    "static/js/4.6d3e0039.chunk.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/4.6d3e0039.chunk.js.map",
+    "static/js/5.cdf896aa.chunk.js": "ashd32.github.io/react-simulated-server-spa/static/js/5.cdf896aa.chunk.js",
+    "static/js/5.cdf896aa.chunk.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/5.cdf896aa.chunk.js.map",
+    "static/js/6.50f0aa8f.chunk.js": "ashd32.github.io/react-simulated-server-spa/static/js/6.50f0aa8f.chunk.js",
+    "static/js/6.50f0aa8f.chunk.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/6.50f0aa8f.chunk.js.map",
+    "static/js/7.c43e7530.chunk.js": "ashd32.github.io/react-simulated-server-spa/static/js/7.c43e7530.chunk.js",
+    "static/js/7.c43e7530.chunk.js.map": "ashd32.github.io/react-simulated-server-spa/static/js/7.c43e7530.chunk.js.map",
+    "index.html": "ashd32.github.io/react-simulated-server-spa/index.html",
+    "precache-manifest.bfda02261572e3b7ed55129e967de119.js": "ashd32.github.io/react-simulated-server-spa/precache-manifest.bfda02261572e3b7ed55129e967de119.js",
+    "service-worker.js": "ashd32.github.io/react-simulated-server-spa/service-worker.js",
+    "static/css/main.6bae9d2a.chunk.css.map": "ashd32.github.io/react-simulated-server-spa/static/css/main.6bae9d2a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7fa48ab.js",
+    "static/js/3.2f045d64.chunk.js",
+    "static/css/main.6bae9d2a.chunk.css",
+    "static/js/main.4008c08b.chunk.js"
+  ]
+}
